@@ -1,6 +1,6 @@
 # Replication data for "Adaptive link dynamics drive online hate networks and their mainstream influence"
 
-Data to accompany the following paper: [DOI PENDING]
+Data to accompany the following paper: https://doi.org/10.1038/s44260-024-00002-2
 
 ## Legal
 

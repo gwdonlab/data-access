@@ -11,6 +11,3 @@ Per Section 3(a)(1) of the CC BY 4.0 License, you *must* include the following w
 - Indication of any modifications you made and, if so, what you changed
 - Copyright notice, notice of disclaimer of warranties, a notice indicating that the contents of this folder is licensed under the CC BY 4.0 License, and a notice referring to the CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/legalcode.en)
 
-## Instructions
-
-[Add additional instructions here]

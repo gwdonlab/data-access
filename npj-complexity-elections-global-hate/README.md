@@ -1,6 +1,6 @@
 # Replication data for "How U.S. Elections Strengthen Global Hate Networks"
 
-Data to accompany the following paper: [DOI PENDING]
+Data to accompany the following paper: https://doi.org/10.1038/s44260-024-00018-8
 
 ## Legal
 

@@ -12,12 +12,9 @@ core_nodes = (
     .sum()
 )
 
-COLOR_MAP = {"TG": "#f0260f", "Gab": "#16fbff", "Twitter": "#37bdba", "Bitchute": "#C9FF40"}
-
 fig = px.pie(
     names=core_nodes["SNS"],
     values=core_nodes["len"],
-    color_discrete_map=COLOR_MAP | {"Other": "#b5b5b5"},
     color=core_nodes["SNS"],
 )
 fig.update_traces(textinfo="none")
